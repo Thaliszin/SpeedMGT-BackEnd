@@ -9,7 +9,7 @@ Descrição dos endpoints da API em Django RestFramework
    - *Retorno:* Retorna informações sobre o usuário recém-criado, incluindo o ID do usuário e outros detalhes.
 
 2. **/api/v1/produto/**
-   - *Descrição:* Esta rota é responsável por realizar operações relacionadas aos produtos na aplicação, como criação, visualização, atualização e exclusão de pedidos.
+   - *Descrição:* Esta rota é responsável por realizar operações relacionadas aos produtos na aplicação, como criação, visualização, atualização e exclusão de produtos.
    - *Métodos HTTP suportados:* `GET`, `POST`, `PUT`, `DELETE`
    - *Parâmetros:* Os parâmetros dependem da operação desejada. Para criação e atualização, são esperados dados do produto no corpo da requisição.
 
